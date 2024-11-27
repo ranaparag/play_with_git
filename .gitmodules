@@ -1,0 +1,6 @@
+[submodule "play_with_git"]
+	path = play_with_git
+	url = https://github.com/ranaparag/play_with_git
+[submodule "practice-git"]
+	path = practice-git
+	url = https://github.com/grayghostvisuals/practice-git
