@@ -47,5 +47,5 @@ jobs:
 
     - name: Build Code
       run: |
-        cd src
+        #cd src
         g++ Test.cpp
