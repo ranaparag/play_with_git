@@ -48,4 +48,4 @@ jobs:
     - name: Build Code
       run: |
         #cd src
-        g++ Test.cpp
+        g++ Test1.cpp
